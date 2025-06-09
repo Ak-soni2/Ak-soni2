@@ -32,28 +32,6 @@ Data Structures & Algorithms | Object-Oriented Programming | Machine Learning | 
 
 ---
 
-## 🚀 Featured Projects
-
-Here are a few highlights from my portfolio, demonstrating my ability to deliver real-world solutions:
-
-### 💬 Stone Chat - Real-Time Messaging App (2025) 
-* Built real-time chat, video calling, and screen sharing features.
-* Implemented secure JWT authentication, protected routes, and a responsive UI with React and Tailwind CSS.
-* Added Friends System, real-time presence tracking, and persistent chat history with MongoDB.
-
-### 📦 Tinkering Lab Inventory System (2024) 
-* Developed dual Android apps for students and admins to manage IIT Jodhpur's lab inventory.
-* Implemented real-time tracking and secure login with Firebase Realtime Database.
-* Reduced equipment loss by 40% through efficient check-in/check-out workflows.
-
-### 🧠 PsyberNet - MBTI Personality Prediction (2024) 
-* Predicted MBTI types using social media posts with TF-IDF, Random Forest, Decision Tree, XG Boost and Cat Boost.
-* Performed EDA, sentiment analysis, and n-gram analysis to extract personality patterns.
-* Built a live Streamlit app for real-time personality prediction from user text input.
-* Visualized model performance via ROC curves, confusion matrix, and classification reports.
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects and discuss the latest advancements in technology. Don't hesitate to reach out – let's build something amazing together!
